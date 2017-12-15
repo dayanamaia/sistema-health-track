@@ -5,3 +5,21 @@
 
 ### Página Inicial
 ![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/1-home-inicial.png)
+
+### Cadastrar uma Conta
+![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/4-cadastrar-conta.png)
+
+### Página Inicial
+![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/1-home-inicial.png)
+
+### Dashboard
+![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/6-dashboard.png)
+
+### Listagem
+![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/7-listagem.png)
+
+### Formulário
+![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/8-formulario.png)
+
+### 404 - Página não encontrada
+![Image](https://raw.githubusercontent.com/dayanamaia/sistema-health-track/master/SistemaHealthTrack/WebContent/Docs/layout/404-nothing-found.png)
