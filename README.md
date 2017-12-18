@@ -1,5 +1,5 @@
 # Sistema Health Track
-> Trabalho acadêmico - Em desenvolvimento - Sistema que monitora a saúde, no qual o usuário pode registrar peso, alimentos consumidos, atividades físicas realizadas, pressão arterial, glicose, colesterol, horas de sono e quantidade de água ingerida.
+> Trabalho acadêmico - Em desenvolvimento - Sistema web responsivo, que monitora a saúde, no qual o usuário pode registrar peso, alimentos consumidos, atividades físicas realizadas, pressão arterial, glicose, colesterol, horas de sono e quantidade de água ingerida.
 
 ## Layout das telas
 
